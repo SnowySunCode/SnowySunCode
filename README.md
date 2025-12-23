@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hello! I’m SnowySun, Backend Developer, currently working on best iOS project<br>👯 I’m looking to collaborate with Java devs, and Rust devs.<br>🌱 I’m currently learning HTML(yea I know, that is HTML is beginner language, but, I don’t care)<br>⚡ Fun fact: I’m only 12 years old, and I’m already know how to programming on 16+ programming languages.
+🔭 Hello! I’m SnowySun, Backend Developer, currently working on best iOS project<br>👯 I’m looking to collaborate with Java devs, and Rust devs.<br>🌱 I’m currently learning HTML(yea I know, that is HTML is beginner language, but, I don’t care)<br>⚡ Fun fact: I’m only 13 years old, and I’m already know how to programming on 16+ programming languages.
 
 
 ## 🌐 Socials:
